@@ -1,0 +1,8 @@
+{
+    "extends": "@pavelglaz/configs/tsconfig",
+    "compilerOptions": {
+        "baseUrl": "../",
+        "noEmit": true
+    },
+    "include": ["./**/*"]
+}
